@@ -1,5 +1,4 @@
-Here's a more detailed version of the README for your **Tricolor Trekker** project:  
-
+🌄 Tricolor Trekker
 ```markdown
 # 🌄 Tricolor Trekker – Explore the Beauty of India 🇮🇳  
 
